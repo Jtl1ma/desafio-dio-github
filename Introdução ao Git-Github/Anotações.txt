@@ -1,0 +1,14 @@
+Alguns comandos Git:
+
+# git init => cria um repositorio na pasta;
+# git add .
+# git commit -m "breve descriçao";
+# git remote add origin git@github.com : usuario/nomeRepositorio;
+# git push -u origin main
+-----------------------//----------------------------------
+# git clone url ou ssh do github;
+-----------------------//---------------------------------
+# git add .
+# git commit -m "descricao"
+# git push 
+# git pull origin main
