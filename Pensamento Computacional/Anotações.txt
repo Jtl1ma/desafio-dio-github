@@ -1,0 +1,6 @@
+
+# Aula 1: Pensamento Computacional;
+# Aula 2: Introdução à lógica de programação;
+# Aula 3: Fundamentos de Algoritmos;
+# Aula 4: Linguagens de programação;
+# Aula 5: Primeiro contato com programação;
